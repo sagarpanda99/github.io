@@ -66,7 +66,7 @@ h1 {
 }
 
 .profile_img {
-  clip-path: circle(47% at 50% 50%);
+  clip-path: circle(45% at 50% 50%);
 
   margin: 5px;
   padding: 5px;
